@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoosaMuhyUdDin
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any project using pyhton or C++
+- 💞️ I’m looking to collaborate on any project using python or C++
 - 📫 How to reach me 
 
 <!---
